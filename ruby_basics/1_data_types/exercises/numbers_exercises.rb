@@ -39,11 +39,11 @@ end
 def even?(number)
   # return true if the number is even (hint: use integer's even? method)
 
-  return number if number.even?
+  return number.even?
 end
 
 def odd?(number)
   # return true if the number is odd (hint: use integer's odd? method)
 
-  return number if number.odd?
+  return number.odd?
 end
